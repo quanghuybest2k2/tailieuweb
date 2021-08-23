@@ -1,0 +1,20 @@
+header{
+    width:960px;
+    height: 100px;
+    background-color: #f00;
+    padding:0px;
+    color: #ffffff;
+}h1{
+    font:tahoma;
+    size:24px;
+    color:white;
+    
+}
+img{
+    display: block;
+    margin-left: 162px;
+}
+h1,img{
+    background:#0091be;
+    text-align: center;
+}
